@@ -1,0 +1,898 @@
+[
+  {
+    "name": "ability",
+    "trans": [
+      "能力"
+    ],
+    "usphone": "əˈbɪləti",
+    "ukphone": "əˈbɪləti"
+  },
+  {
+    "name": "abstract",
+    "trans": [
+      "摘要"
+    ],
+    "usphone": "ˈæbstrækt , æbˈstrækt",
+    "ukphone": "ˈæbstrækt , æbˈstrækt"
+  },
+  {
+    "name": "accountant",
+    "trans": [
+      "会计"
+    ],
+    "usphone": "əˈkaʊntənt",
+    "ukphone": "əˈkaʊntənt"
+  },
+  {
+    "name": "accuracy",
+    "trans": [
+      "准确度"
+    ],
+    "usphone": "ˈækjərəsi",
+    "ukphone": "ˈækjərəsi"
+  },
+  {
+    "name": "acid",
+    "trans": [
+      "酸"
+    ],
+    "usphone": "ˈæsɪd",
+    "ukphone": "ˈæsɪd"
+  },
+  {
+    "name": "action",
+    "trans": [
+      "行动"
+    ],
+    "usphone": "ˈækʃn",
+    "ukphone": "ˈækʃn"
+  },
+  {
+    "name": "activity",
+    "trans": [
+      "活动"
+    ],
+    "usphone": "ækˈtɪvəti",
+    "ukphone": "ækˈtɪvəti"
+  },
+  {
+    "name": "actor",
+    "trans": [
+      "男演员"
+    ],
+    "usphone": "ˈæktə",
+    "ukphone": "ˈæktər"
+  },
+  {
+    "name": "adult",
+    "trans": [
+      "成人"
+    ],
+    "usphone": "ˈædʌlt",
+    "ukphone": "əˈdʌlt"
+  },
+  {
+    "name": "adventure",
+    "trans": [
+      "冒险"
+    ],
+    "usphone": "ədˈventʃə",
+    "ukphone": "ədˈventʃər"
+  },
+  {
+    "name": "advertisements",
+    "trans": [
+      "广告，宣传"
+    ],
+    "usphone": "ədˈvɜːtɪsmənts",
+    "ukphone": "ˌædvərˈtaɪzmənts"
+  },
+  {
+    "name": "advertising",
+    "trans": [
+      "广告"
+    ],
+    "usphone": "ˈædvətaɪzɪŋ",
+    "ukphone": "ˈædvərtaɪzɪŋ"
+  },
+  {
+    "name": "advice",
+    "trans": [
+      "建议"
+    ],
+    "usphone": "ədˈvaɪs",
+    "ukphone": "ədˈvaɪs"
+  },
+  {
+    "name": "age",
+    "trans": [
+      "年纪"
+    ],
+    "usphone": "eɪdʒ",
+    "ukphone": "eɪdʒ"
+  },
+  {
+    "name": "agency",
+    "trans": [
+      "代理机构，中介"
+    ],
+    "usphone": "ˈeɪdʒənsi",
+    "ukphone": "ˈeɪdʒənsi"
+  },
+  {
+    "name": "agreement",
+    "trans": [
+      "同意"
+    ],
+    "usphone": "əˈɡriːmənt",
+    "ukphone": "əˈɡriːmənt"
+  },
+  {
+    "name": "agriculture",
+    "trans": [
+      "农业"
+    ],
+    "usphone": "ˈæɡrɪkʌltʃə",
+    "ukphone": "ˈæɡrɪkʌltʃər"
+  },
+  {
+    "name": "aid",
+    "trans": [
+      "帮助"
+    ],
+    "usphone": "eɪd",
+    "ukphone": "eɪd"
+  },
+  {
+    "name": "aim",
+    "trans": [
+      "瞄准，对准；目的"
+    ],
+    "usphone": "eɪm",
+    "ukphone": "eɪm"
+  },
+  {
+    "name": "air",
+    "trans": [
+      "空气"
+    ],
+    "usphone": "eə",
+    "ukphone": "er"
+  },
+  {
+    "name": "allergy",
+    "trans": [
+      "过敏"
+    ],
+    "usphone": "ˈælədʒi",
+    "ukphone": "ˈælərdʒi"
+  },
+  {
+    "name": "alley",
+    "trans": [
+      "小巷，道"
+    ],
+    "usphone": "ˈæli",
+    "ukphone": "ˈæli"
+  },
+  {
+    "name": "allowance",
+    "trans": [
+      "津贴"
+    ],
+    "usphone": "əˈlaʊəns",
+    "ukphone": "əˈlaʊəns"
+  },
+  {
+    "name": "alteration",
+    "trans": [
+      "改变"
+    ],
+    "usphone": "ˌɔːltəˈreɪʃn",
+    "ukphone": "ˌɔːltəˈreɪʃn"
+  },
+  {
+    "name": "altitude",
+    "trans": [
+      "海拔，高度"
+    ],
+    "usphone": "ˈæltɪtjuːd",
+    "ukphone": "ˈæltɪtuːd"
+  },
+  {
+    "name": "ambition",
+    "trans": [
+      "野心，抱负"
+    ],
+    "usphone": "æmˈbɪʃn",
+    "ukphone": "æmˈbɪʃn"
+  },
+  {
+    "name": "ambulance",
+    "trans": [
+      "救护车"
+    ],
+    "usphone": "ˈæmbjələns",
+    "ukphone": "ˈæmbjələns"
+  },
+  {
+    "name": "amount",
+    "trans": [
+      "数量"
+    ],
+    "usphone": "əˈmaʊnt",
+    "ukphone": "əˈmaʊnt"
+  },
+  {
+    "name": "analysis",
+    "trans": [
+      "分析"
+    ],
+    "usphone": "əˈnæləsɪs",
+    "ukphone": "əˈnæləsɪs"
+  },
+  {
+    "name": "analyst",
+    "trans": [
+      "分析家"
+    ],
+    "usphone": "ˈænəlɪst",
+    "ukphone": "ˈænəlɪst"
+  },
+  {
+    "name": "anger",
+    "trans": [
+      "愤怒"
+    ],
+    "usphone": "ˈæŋɡə",
+    "ukphone": "ˈæŋɡər"
+  },
+  {
+    "name": "animal",
+    "trans": [
+      "动物"
+    ],
+    "usphone": "ˈænɪml",
+    "ukphone": "ˈænɪml"
+  },
+  {
+    "name": "ankle",
+    "trans": [
+      "踝"
+    ],
+    "usphone": "ˈæŋkl",
+    "ukphone": "ˈæŋkl"
+  },
+  {
+    "name": "answer",
+    "trans": [
+      "回答"
+    ],
+    "usphone": "ˈɑːnsə",
+    "ukphone": "ˈænsər"
+  },
+  {
+    "name": "Antarctica",
+    "trans": [
+      "南极洲"
+    ],
+    "usphone": "ˌæntˈɑrk.tɪ.kə",
+    "ukphone": "ˌæntˈɑːr.kə.tɪ.kə"
+  },
+  {
+    "name": "ape",
+    "trans": [
+      "猿"
+    ],
+    "usphone": "ep",
+    "ukphone": "eɪp"
+  },
+  {
+    "name": "appearance",
+    "trans": [
+      "外貌"
+    ],
+    "usphone": "əˈpɪərəns",
+    "ukphone": "əˈpɪrəns"
+  },
+  {
+    "name": "architect",
+    "trans": [
+      "建筑师"
+    ],
+    "usphone": "ˈɑːkɪtekt",
+    "ukphone": "ˈɑːrkɪtekt"
+  },
+  {
+    "name": "architectures",
+    "trans": [
+      "建筑学;建筑物"
+    ],
+    "usphone": "ˈɑr.kɪˌtɛk.tʃərz",
+    "ukphone": "ˈɑː.kɪˌtek.tjʊrz"
+  },
+  {
+    "name": "area",
+    "trans": [
+      "地区，部分"
+    ],
+    "usphone": "ˈeəriə",
+    "ukphone": "ˈeriə"
+  },
+  {
+    "name": "argument",
+    "trans": [
+      "论证"
+    ],
+    "usphone": "ˈɑːɡjumənt",
+    "ukphone": "ˈɑːrɡjumənt"
+  },
+  {
+    "name": "aristocrat",
+    "trans": [
+      "贵族"
+    ],
+    "usphone": "ˈærɪstəkræt",
+    "ukphone": "əˈrɪstəkræt"
+  },
+  {
+    "name": "army",
+    "trans": [
+      "军队"
+    ],
+    "usphone": "ˈɑːmi",
+    "ukphone": "ˈɑːrmi"
+  },
+  {
+    "name": "art",
+    "trans": [
+      "艺术"
+    ],
+    "usphone": "ɑːt",
+    "ukphone": "ɑːrt"
+  },
+  {
+    "name": "article",
+    "trans": [
+      "文章，用品"
+    ],
+    "usphone": "ˈɑːtɪkl",
+    "ukphone": "ˈɑːrtɪkl"
+  },
+  {
+    "name": "aspirin",
+    "trans": [
+      "阿司匹林"
+    ],
+    "usphone": "ˈæsprɪn",
+    "ukphone": "ˈæsprɪn"
+  },
+  {
+    "name": "assignment",
+    "trans": [
+      "作业"
+    ],
+    "usphone": "əˈsaɪnmənt",
+    "ukphone": "əˈsaɪnmənt"
+  },
+  {
+    "name": "atlas",
+    "trans": [
+      "地图册"
+    ],
+    "usphone": "ˈætləs",
+    "ukphone": "ˈætləs"
+  },
+  {
+    "name": "audience",
+    "trans": [
+      "观众"
+    ],
+    "usphone": "ˈɔːdiəns",
+    "ukphone": "ˈɑːdiəns"
+  },
+  {
+    "name": "auditorium",
+    "trans": [
+      "礼堂"
+    ],
+    "usphone": "ˌɔːdɪˈtɔːriəm",
+    "ukphone": "ˌɔːdɪˈtɔːriəm"
+  },
+  {
+    "name": "author",
+    "trans": [
+      "作者"
+    ],
+    "usphone": "ˈɔːθə",
+    "ukphone": "ˈɔːθər"
+  },
+  {
+    "name": "authority",
+    "trans": [
+      "权威"
+    ],
+    "usphone": "ɔːˈθɒrəti",
+    "ukphone": "əˈθɔːrəti"
+  },
+  {
+    "name": "average",
+    "trans": [
+      "平均"
+    ],
+    "usphone": "ˈævərɪdʒ",
+    "ukphone": "ˈævərɪdʒ"
+  },
+  {
+    "name": "award",
+    "trans": [
+      "奖励"
+    ],
+    "usphone": "əˈwɔːd",
+    "ukphone": "əˈwɔːrd"
+  },
+  {
+    "name": "bachelor",
+    "trans": [
+      "学士"
+    ],
+    "usphone": "ˈbætʃələ",
+    "ukphone": "ˈbætʃələr"
+  },
+  {
+    "name": "background",
+    "trans": [
+      "背景"
+    ],
+    "usphone": "ˈbækɡraʊnd",
+    "ukphone": "ˈbækɡraʊnd"
+  },
+  {
+    "name": "bacteria",
+    "trans": [
+      "细菌"
+    ],
+    "usphone": "bækˈtɪəriə",
+    "ukphone": "bækˈtɪriə"
+  },
+  {
+    "name": "badge",
+    "trans": [
+      "徽章"
+    ],
+    "usphone": "bædʒ",
+    "ukphone": "bædʒ"
+  },
+  {
+    "name": "badminton",
+    "trans": [
+      "羽毛球"
+    ],
+    "usphone": "ˈbædmɪntən",
+    "ukphone": "ˈbædmɪntən"
+  },
+  {
+    "name": "backpack",
+    "trans": [
+      "肩背大包自助旅行"
+    ],
+    "usphone": "ˈbækpæk",
+    "ukphone": "ˈbækpæk"
+  },
+  {
+    "name": "baldness",
+    "trans": [
+      "秃头"
+    ],
+    "usphone": "'bɔldnɪs",
+    "ukphone": "'bɔːldnis"
+  },
+  {
+    "name": "band",
+    "trans": [
+      "乐队"
+    ],
+    "usphone": "bænd",
+    "ukphone": "bænd"
+  },
+  {
+    "name": "bandage",
+    "trans": [
+      "绷带"
+    ],
+    "usphone": "ˈbændɪdʒ",
+    "ukphone": "ˈbændɪdʒ"
+  },
+  {
+    "name": "bands",
+    "trans": [
+      "乐队"
+    ],
+    "usphone": "bændz",
+    "ukphone": "bændz"
+  },
+  {
+    "name": "bank",
+    "trans": [
+      "银行"
+    ],
+    "usphone": "bæŋk",
+    "ukphone": "bæŋk"
+  },
+  {
+    "name": "banquet",
+    "trans": [
+      "宴会"
+    ],
+    "usphone": "ˈbæŋkwɪt",
+    "ukphone": "ˈbæŋkwɪt"
+  },
+  {
+    "name": "base",
+    "trans": [
+      "基础"
+    ],
+    "usphone": "beɪs",
+    "ukphone": "beɪs"
+  },
+  {
+    "name": "basement",
+    "trans": [
+      "地下室"
+    ],
+    "usphone": "ˈbeɪsmənt",
+    "ukphone": "ˈbeɪsmənt"
+  },
+  {
+    "name": "bases",
+    "trans": [
+      "底部，基地"
+    ],
+    "usphone": "ˈbeɪsɪz , ˈbeɪsiːz",
+    "ukphone": "ˈbeɪsɪz , ˈbeɪsiːz"
+  },
+  {
+    "name": "basis",
+    "trans": [
+      "基础"
+    ],
+    "usphone": "ˈbeɪsɪs",
+    "ukphone": "ˈbeɪsɪs"
+  },
+  {
+    "name": "bath",
+    "trans": [
+      "洗澡"
+    ],
+    "usphone": "bɑːθ",
+    "ukphone": "bæθ"
+  },
+  {
+    "name": "batteries",
+    "trans": [
+      "电池"
+    ],
+    "usphone": "ˈbætəriz",
+    "ukphone": "ˈbætəriz"
+  },
+  {
+    "name": "battery",
+    "trans": [
+      "电池"
+    ],
+    "usphone": "ˈbætri",
+    "ukphone": "ˈbætəri"
+  },
+  {
+    "name": "beach",
+    "trans": [
+      "海滩"
+    ],
+    "usphone": "biːtʃ",
+    "ukphone": "biːtʃ"
+  },
+  {
+    "name": "beard",
+    "trans": [
+      "胡子"
+    ],
+    "usphone": "bɪəd",
+    "ukphone": "bɪrd"
+  },
+  {
+    "name": "beats",
+    "trans": [
+      "跳动的次数"
+    ],
+    "usphone": "biːts",
+    "ukphone": "biːts"
+  },
+  {
+    "name": "beauty",
+    "trans": [
+      "美女"
+    ],
+    "usphone": "ˈbjuːti",
+    "ukphone": "ˈbjuːti"
+  },
+  {
+    "name": "bed",
+    "trans": [
+      "床"
+    ],
+    "usphone": "bed",
+    "ukphone": "bed"
+  },
+  {
+    "name": "bedroom",
+    "trans": [
+      "卧室"
+    ],
+    "usphone": "ˈbedruːm",
+    "ukphone": "ˈbedruːm"
+  },
+  {
+    "name": "bed sheet",
+    "trans": [
+      "床单"
+    ],
+    "usphone": "ˈbɛd ʃit",
+    "ukphone": "ˈbɛd ʃiːt"
+  },
+  {
+    "name": "bedsit",
+    "trans": [
+      "（卧室兼起居室的）小套房"
+    ],
+    "usphone": "ˈbɛd.sɪt",
+    "ukphone": "ˈbɛd.sɪt"
+  },
+  {
+    "name": "behaviors",
+    "trans": [
+      "行为；态度"
+    ],
+    "usphone": "bɪˈheɪvjəz",
+    "ukphone": "bɪˈheɪvjərz"
+  },
+  {
+    "name": "belt",
+    "trans": [
+      "带子"
+    ],
+    "usphone": "belt",
+    "ukphone": "belt"
+  },
+  {
+    "name": "benefit",
+    "trans": [
+      "优势"
+    ],
+    "usphone": "ˈbenɪfɪt",
+    "ukphone": "ˈbenɪfɪt"
+  },
+  {
+    "name": "beverage",
+    "trans": [
+      "软饮料"
+    ],
+    "usphone": "ˈbevərɪdʒ",
+    "ukphone": "ˈbevərɪdʒ"
+  },
+  {
+    "name": "bibliography",
+    "trans": [
+      "参考书目"
+    ],
+    "usphone": "ˌbɪbliˈɒɡrəfi",
+    "ukphone": "ˌbɪbliˈɑːɡrəfi"
+  },
+  {
+    "name": "bicycle",
+    "trans": [
+      "自行车"
+    ],
+    "usphone": "ˈbaɪsɪkl",
+    "ukphone": "ˈbaɪsɪkl"
+  },
+  {
+    "name": "bill",
+    "trans": [
+      "账单"
+    ],
+    "usphone": "bɪl",
+    "ukphone": "bɪl"
+  },
+  {
+    "name": "biologist",
+    "trans": [
+      "生物学家"
+    ],
+    "usphone": "baɪˈɒlədʒɪst",
+    "ukphone": "baɪˈɑːlədʒɪst"
+  },
+  {
+    "name": "bird",
+    "trans": [
+      "鸟类"
+    ],
+    "usphone": "bɜːd",
+    "ukphone": "bɜːrd"
+  },
+  {
+    "name": "birth",
+    "trans": [
+      "出生"
+    ],
+    "usphone": "bɜːθ",
+    "ukphone": "bɜːrθ"
+  },
+  {
+    "name": "blanket",
+    "trans": [
+      "毯子"
+    ],
+    "usphone": "ˈblæŋkɪt",
+    "ukphone": "ˈblæŋkɪt"
+  },
+  {
+    "name": "blast",
+    "trans": [
+      "爆炸"
+    ],
+    "usphone": "blɑːst",
+    "ukphone": "blæst"
+  },
+  {
+    "name": "block",
+    "trans": [
+      "街区"
+    ],
+    "usphone": "blɒk",
+    "ukphone": "blɑːk"
+  },
+  {
+    "name": "blouse",
+    "trans": [
+      "女士衬衫"
+    ],
+    "usphone": "blaʊz",
+    "ukphone": "blaʊs"
+  },
+  {
+    "name": "board",
+    "trans": [
+      "木板；董事会"
+    ],
+    "usphone": "bɔːd",
+    "ukphone": "bɔːrd"
+  },
+  {
+    "name": "boarder",
+    "trans": [
+      "住校的学生"
+    ],
+    "usphone": "'bɔrdɚ",
+    "ukphone": "ˈbɔ:də(r)"
+  },
+  {
+    "name": "boat",
+    "trans": [
+      "船"
+    ],
+    "usphone": "bəʊt",
+    "ukphone": "boʊt"
+  },
+  {
+    "name": "bone",
+    "trans": [
+      "骨头"
+    ],
+    "usphone": "bəʊn",
+    "ukphone": "boʊn"
+  },
+  {
+    "name": "bowl",
+    "trans": [
+      "碗"
+    ],
+    "usphone": "bəʊl",
+    "ukphone": "boʊl"
+  },
+  {
+    "name": "bowling",
+    "trans": [
+      "保龄球"
+    ],
+    "usphone": "ˈbəʊlɪŋ",
+    "ukphone": "ˈboʊlɪŋ"
+  },
+  {
+    "name": "branch",
+    "trans": [
+      "分支；分部"
+    ],
+    "usphone": "brɑːntʃ",
+    "ukphone": "bræntʃ"
+  },
+  {
+    "name": "breakfast",
+    "trans": [
+      "早餐"
+    ],
+    "usphone": "ˈbrekfəst",
+    "ukphone": "ˈbrekfəst"
+  },
+  {
+    "name": "brick",
+    "trans": [
+      "砖"
+    ],
+    "usphone": "brɪk",
+    "ukphone": "brɪk"
+  },
+  {
+    "name": "bridge",
+    "trans": [
+      "桥"
+    ],
+    "usphone": "brɪdʒ",
+    "ukphone": "brɪdʒ"
+  },
+  {
+    "name": "brochures",
+    "trans": [
+      "小册子"
+    ],
+    "usphone": "ˈbroʊˌʃʊrz",
+    "ukphone": "ˈbrəʊ.ʃʊəz"
+  },
+  {
+    "name": "building",
+    "trans": [
+      "建筑物"
+    ],
+    "usphone": "ˈbɪldɪŋ",
+    "ukphone": "ˈbɪldɪŋ"
+  },
+  {
+    "name": "bungalow",
+    "trans": [
+      "平房"
+    ],
+    "usphone": "ˈbʌŋɡələʊ",
+    "ukphone": "ˈbʌŋɡəloʊ"
+  },
+  {
+    "name": "burger",
+    "trans": [
+      "汉堡"
+    ],
+    "usphone": "ˈbɜːɡə",
+    "ukphone": "ˈbɜːrɡər"
+  },
+  {
+    "name": "burglar",
+    "trans": [
+      "夜盗"
+    ],
+    "usphone": "ˈbɜːɡlə",
+    "ukphone": "ˈbɜːrɡlər"
+  },
+  {
+    "name": "bus",
+    "trans": [
+      "公共汽车"
+    ],
+    "usphone": "bʌs",
+    "ukphone": "bʌs"
+  },
+  {
+    "name": "cab",
+    "trans": [
+      "出租车"
+    ],
+    "usphone": "kæb",
+    "ukphone": "kæb"
+  }
+]

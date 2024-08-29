@@ -1,0 +1,1146 @@
+[
+  {
+    "name": "cabinet",
+    "trans": [
+      "橱柜"
+    ],
+    "usphone": "ˈkæbɪnət",
+    "ukphone": "ˈkæbɪnət"
+  },
+  {
+    "name": "cable",
+    "trans": [
+      "电缆，有线电视"
+    ],
+    "usphone": "ˈkeɪbl",
+    "ukphone": "ˈkeɪbl"
+  },
+  {
+    "name": "cafe",
+    "trans": [
+      "咖啡厅"
+    ],
+    "usphone": "ˈkæfeɪ",
+    "ukphone": "kæˈfeɪ"
+  },
+  {
+    "name": "cafeteria",
+    "trans": [
+      "咖啡店，自助餐厅"
+    ],
+    "usphone": "ˌkæfəˈtɪəriə",
+    "ukphone": "ˌkæfəˈtɪriə"
+  },
+  {
+    "name": "cage",
+    "trans": [
+      "笼子"
+    ],
+    "usphone": "keɪdʒ",
+    "ukphone": "keɪdʒ"
+  },
+  {
+    "name": "Cambridge",
+    "trans": [
+      "剑桥"
+    ],
+    "usphone": "ˈkembrɪdʒ",
+    "ukphone": "ˈkeɪmbrɪdʒ"
+  },
+  {
+    "name": "camel",
+    "trans": [
+      "骆驼"
+    ],
+    "usphone": "ˈkæml",
+    "ukphone": "ˈkæml"
+  },
+  {
+    "name": "camera",
+    "trans": [
+      "相机"
+    ],
+    "usphone": "ˈkæmərə",
+    "ukphone": "ˈkæmərə"
+  },
+  {
+    "name": "camp",
+    "trans": [
+      "露营"
+    ],
+    "usphone": "kæmp",
+    "ukphone": "kæmp"
+  },
+  {
+    "name": "campus",
+    "trans": [
+      "校园"
+    ],
+    "usphone": "ˈkæmpəs",
+    "ukphone": "ˈkæmpəs"
+  },
+  {
+    "name": "candidate",
+    "trans": [
+      "候选人，考生"
+    ],
+    "usphone": "ˈkændɪdət",
+    "ukphone": "ˈkændɪdət"
+  },
+  {
+    "name": "candle",
+    "trans": [
+      "蜡烛"
+    ],
+    "usphone": "ˈkændl",
+    "ukphone": "ˈkændl"
+  },
+  {
+    "name": "canteen",
+    "trans": [
+      "食堂"
+    ],
+    "usphone": "kænˈtiːn",
+    "ukphone": "kænˈtiːn"
+  },
+  {
+    "name": "capital",
+    "trans": [
+      "资金；首都"
+    ],
+    "usphone": "ˈkæpɪtl",
+    "ukphone": "ˈkæpɪtl"
+  },
+  {
+    "name": "capsule",
+    "trans": [
+      "胶囊"
+    ],
+    "usphone": "ˈkæpsjuːl",
+    "ukphone": "ˈkæpsl"
+  },
+  {
+    "name": "carbon",
+    "trans": [
+      "碳"
+    ],
+    "usphone": "ˈkɑːbən",
+    "ukphone": "ˈkɑːrbən"
+  },
+  {
+    "name": "care",
+    "trans": [
+      "关注，照顾"
+    ],
+    "usphone": "keə",
+    "ukphone": "ker"
+  },
+  {
+    "name": "career",
+    "trans": [
+      "事业"
+    ],
+    "usphone": "kəˈrɪə",
+    "ukphone": "kəˈrɪr"
+  },
+  {
+    "name": "carpet",
+    "trans": [
+      "地毯"
+    ],
+    "usphone": "ˈkɑːpɪt",
+    "ukphone": "ˈkɑːrpɪt"
+  },
+  {
+    "name": "carving",
+    "trans": [
+      "雕刻"
+    ],
+    "usphone": "ˈkɑːvɪŋ",
+    "ukphone": "ˈkɑːrvɪŋ"
+  },
+  {
+    "name": "cashier",
+    "trans": [
+      "出纳员"
+    ],
+    "usphone": "kæˈʃɪə",
+    "ukphone": "kæˈʃɪr"
+  },
+  {
+    "name": "castle",
+    "trans": [
+      "城堡"
+    ],
+    "usphone": "ˈkɑːsl",
+    "ukphone": "ˈkæsl"
+  },
+  {
+    "name": "category",
+    "trans": [
+      "种类"
+    ],
+    "usphone": "ˈkætəɡəri",
+    "ukphone": "ˈkætəɡɔːri"
+  },
+  {
+    "name": "cathedral",
+    "trans": [
+      "大教堂"
+    ],
+    "usphone": "kəˈθiːdrəl",
+    "ukphone": "kəˈθiːdrəl"
+  },
+  {
+    "name": "cause",
+    "trans": [
+      "起因"
+    ],
+    "usphone": "kɔːz",
+    "ukphone": "kɔːz"
+  },
+  {
+    "name": "cave",
+    "trans": [
+      "洞穴"
+    ],
+    "usphone": "keɪv",
+    "ukphone": "keɪv"
+  },
+  {
+    "name": "cents",
+    "trans": [
+      "分"
+    ],
+    "usphone": "sents",
+    "ukphone": "sents"
+  },
+  {
+    "name": "century",
+    "trans": [
+      "世纪"
+    ],
+    "usphone": "ˈsentʃəri",
+    "ukphone": "ˈsentʃəri"
+  },
+  {
+    "name": "certificate",
+    "trans": [
+      "证书"
+    ],
+    "usphone": "səˈtɪfɪkət , səˈtɪfɪkeɪt",
+    "ukphone": "sərˈtɪfɪkət , sərˈtɪfɪkeɪt"
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "椅子"
+    ],
+    "usphone": "tʃeə",
+    "ukphone": "tʃer"
+  },
+  {
+    "name": "chance",
+    "trans": [
+      "机会"
+    ],
+    "usphone": "tʃɑːns",
+    "ukphone": "tʃæns"
+  },
+  {
+    "name": "chancellor",
+    "trans": [
+      "大学校长（英式）"
+    ],
+    "usphone": "ˈtʃɑːnsələ",
+    "ukphone": "ˈtʃænsələr"
+  },
+  {
+    "name": "channel",
+    "trans": [
+      "海峡"
+    ],
+    "usphone": "ˈtʃænl",
+    "ukphone": "ˈtʃænl"
+  },
+  {
+    "name": "chapter",
+    "trans": [
+      "章节"
+    ],
+    "usphone": "ˈtʃæptə",
+    "ukphone": "ˈtʃæptər"
+  },
+  {
+    "name": "character",
+    "trans": [
+      "品质，特征"
+    ],
+    "usphone": "ˈkærəktə",
+    "ukphone": "ˈkærəktər"
+  },
+  {
+    "name": "charge",
+    "trans": [
+      "收费"
+    ],
+    "usphone": "tʃɑːdʒ",
+    "ukphone": "tʃɑːrdʒ"
+  },
+  {
+    "name": "charity",
+    "trans": [
+      "慈善"
+    ],
+    "usphone": "ˈtʃærəti",
+    "ukphone": "ˈtʃærəti"
+  },
+  {
+    "name": "chart",
+    "trans": [
+      "图表"
+    ],
+    "usphone": "tʃɑːt",
+    "ukphone": "tʃɑːrt"
+  },
+  {
+    "name": "chat",
+    "trans": [
+      "聊天"
+    ],
+    "usphone": "tʃæt",
+    "ukphone": "tʃæt"
+  },
+  {
+    "name": "checklist",
+    "trans": [
+      "核对清单"
+    ],
+    "usphone": "ˈtʃeklɪst",
+    "ukphone": "ˈtʃeklɪst"
+  },
+  {
+    "name": "checks",
+    "trans": [
+      "核对支票"
+    ],
+    "usphone": "tʃeks",
+    "ukphone": "tʃeks"
+  },
+  {
+    "name": "cheese",
+    "trans": [
+      "奶酪"
+    ],
+    "usphone": "tʃiːz",
+    "ukphone": "tʃiːz"
+  },
+  {
+    "name": "chemist's",
+    "trans": [
+      "药店"
+    ],
+    "usphone": "ˈkɛm.ɪsts",
+    "ukphone": "ˈkɛm.ɪsts"
+  },
+  {
+    "name": "chest",
+    "trans": [
+      "胸部"
+    ],
+    "usphone": "tʃest",
+    "ukphone": "tʃest"
+  },
+  {
+    "name": "chick",
+    "trans": [
+      "小鸡"
+    ],
+    "usphone": "tʃɪk",
+    "ukphone": "tʃɪk"
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "鸡；鸡肉"
+    ],
+    "usphone": "ˈtʃɪkɪn",
+    "ukphone": "ˈtʃɪkɪn"
+  },
+  {
+    "name": "child",
+    "trans": [
+      "儿童"
+    ],
+    "usphone": "tʃaɪld",
+    "ukphone": "tʃaɪld"
+  },
+  {
+    "name": "chin",
+    "trans": [
+      "下巴"
+    ],
+    "usphone": "tʃɪn",
+    "ukphone": "tʃɪn"
+  },
+  {
+    "name": "chocolate",
+    "trans": [
+      "巧克力"
+    ],
+    "usphone": "ˈtʃɒklət",
+    "ukphone": "ˈtʃɔːklət"
+  },
+  {
+    "name": "choice",
+    "trans": [
+      "选择"
+    ],
+    "usphone": "tʃɔɪs",
+    "ukphone": "tʃɔɪs"
+  },
+  {
+    "name": "church",
+    "trans": [
+      "教堂"
+    ],
+    "usphone": "tʃɜːtʃ",
+    "ukphone": "tʃɜːrtʃ"
+  },
+  {
+    "name": "cinema",
+    "trans": [
+      "电影院"
+    ],
+    "usphone": "ˈsɪnəmə",
+    "ukphone": "ˈsɪnəmə"
+  },
+  {
+    "name": "circle",
+    "trans": [
+      "圆"
+    ],
+    "usphone": "ˈsɜːkl",
+    "ukphone": "ˈsɜːrkl"
+  },
+  {
+    "name": "city",
+    "trans": [
+      "城市"
+    ],
+    "usphone": "ˈsɪti",
+    "ukphone": "ˈsɪti"
+  },
+  {
+    "name": "clarity",
+    "trans": [
+      "清楚"
+    ],
+    "usphone": "ˈklærəti",
+    "ukphone": "ˈklærəti"
+  },
+  {
+    "name": "cleaner",
+    "trans": [
+      "清洁工"
+    ],
+    "usphone": "ˈkliːnə",
+    "ukphone": "ˈkliːnər"
+  },
+  {
+    "name": "cleaning",
+    "trans": [
+      "清洁"
+    ],
+    "usphone": "ˈkliːnɪŋ",
+    "ukphone": "ˈkliːnɪŋ"
+  },
+  {
+    "name": "client",
+    "trans": [
+      "客户"
+    ],
+    "usphone": "ˈklaɪənt",
+    "ukphone": "ˈklaɪənt"
+  },
+  {
+    "name": "cliffs",
+    "trans": [
+      "悬崖，峭壁"
+    ],
+    "usphone": "klɪfs",
+    "ukphone": "klɪfs"
+  },
+  {
+    "name": "climate",
+    "trans": [
+      "天气"
+    ],
+    "usphone": "ˈklaɪmət",
+    "ukphone": "ˈklaɪmət"
+  },
+  {
+    "name": "clinic",
+    "trans": [
+      "诊所"
+    ],
+    "usphone": "ˈklɪnɪk",
+    "ukphone": "ˈklɪnɪk"
+  },
+  {
+    "name": "clock",
+    "trans": [
+      "钟"
+    ],
+    "usphone": "klɒk",
+    "ukphone": "klɑːk"
+  },
+  {
+    "name": "cloth",
+    "trans": [
+      "布"
+    ],
+    "usphone": "klɒθ",
+    "ukphone": "klɔːθ"
+  },
+  {
+    "name": "clothing",
+    "trans": [
+      "服装"
+    ],
+    "usphone": "ˈkləʊðɪŋ",
+    "ukphone": "ˈkloʊðɪŋ"
+  },
+  {
+    "name": "club",
+    "trans": [
+      "俱乐部"
+    ],
+    "usphone": "klʌb",
+    "ukphone": "klʌb"
+  },
+  {
+    "name": "coach",
+    "trans": [
+      "长途汽车"
+    ],
+    "usphone": "kəʊtʃ",
+    "ukphone": "koʊtʃ"
+  },
+  {
+    "name": "coast",
+    "trans": [
+      "海边"
+    ],
+    "usphone": "kəʊst",
+    "ukphone": "koʊst"
+  },
+  {
+    "name": "code",
+    "trans": [
+      "密码"
+    ],
+    "usphone": "kəʊd",
+    "ukphone": "koʊd"
+  },
+  {
+    "name": "coke",
+    "trans": [
+      "可乐"
+    ],
+    "usphone": "kəʊk",
+    "ukphone": "koʊk"
+  },
+  {
+    "name": "cola",
+    "trans": [
+      "可乐"
+    ],
+    "usphone": "ˈkəʊlə",
+    "ukphone": "ˈkoʊlə"
+  },
+  {
+    "name": "colleague",
+    "trans": [
+      "同事"
+    ],
+    "usphone": "ˈkɒliːɡ",
+    "ukphone": "ˈkɑːliːɡ"
+  },
+  {
+    "name": "college",
+    "trans": [
+      "学院"
+    ],
+    "usphone": "ˈkɒlɪdʒ",
+    "ukphone": "ˈkɑːlɪdʒ"
+  },
+  {
+    "name": "comedy",
+    "trans": [
+      "喜剧片"
+    ],
+    "usphone": "ˈkɒmədi",
+    "ukphone": "ˈkɑːmədi"
+  },
+  {
+    "name": "commercials",
+    "trans": [
+      "广告"
+    ],
+    "usphone": "kəˈmɜːʃəlz",
+    "ukphone": "kəˈmɜrʃəlz"
+  },
+  {
+    "name": "commuter",
+    "trans": [
+      "通勤者"
+    ],
+    "usphone": "kəˈmjuːtə",
+    "ukphone": "kəˈmjuːtər"
+  },
+  {
+    "name": "companion",
+    "trans": [
+      "同伴"
+    ],
+    "usphone": "kəmˈpæniən",
+    "ukphone": "kəmˈpæniən"
+  },
+  {
+    "name": "company",
+    "trans": [
+      "公司；陪伴"
+    ],
+    "usphone": "ˈkʌmpəni",
+    "ukphone": "ˈkʌmpəni"
+  },
+  {
+    "name": "complaint",
+    "trans": [
+      "抱怨"
+    ],
+    "usphone": "kəmˈpleɪnt",
+    "ukphone": "kəmˈpleɪnt"
+  },
+  {
+    "name": "complex",
+    "trans": [
+      "建筑群或街区"
+    ],
+    "usphone": "ˈkɒmpleks",
+    "ukphone": "kəmˈpleks , ˈkɑːmpleks"
+  },
+  {
+    "name": "computer",
+    "trans": [
+      "电脑"
+    ],
+    "usphone": "kəmˈpjuːtə",
+    "ukphone": "kəmˈpjuːtər"
+  },
+  {
+    "name": "concert",
+    "trans": [
+      "音乐会"
+    ],
+    "usphone": "ˈkɒnsət",
+    "ukphone": "ˈkɑːnsərt"
+  },
+  {
+    "name": "conclusion",
+    "trans": [
+      "结论"
+    ],
+    "usphone": "kənˈkluːʒn",
+    "ukphone": "kənˈkluːʒn"
+  },
+  {
+    "name": "condition",
+    "trans": [
+      "状况，条件"
+    ],
+    "usphone": "kənˈdɪʃn",
+    "ukphone": "kənˈdɪʃn"
+  },
+  {
+    "name": "conferences",
+    "trans": [
+      "会议"
+    ],
+    "usphone": "ˈkɒnfərənsɪz",
+    "ukphone": "ˈkɑːnfərənsəz"
+  },
+  {
+    "name": "confidence",
+    "trans": [
+      "自信"
+    ],
+    "usphone": "ˈkɒnfɪdəns",
+    "ukphone": "ˈkɑːnfɪdəns"
+  },
+  {
+    "name": "confirmation",
+    "trans": [
+      "证实，确认"
+    ],
+    "usphone": "ˌkɒnfəˈmeɪʃn",
+    "ukphone": "ˌkɑːnfərˈmeɪʃn"
+  },
+  {
+    "name": "congestion",
+    "trans": [
+      "拥挤"
+    ],
+    "usphone": "kənˈdʒestʃən",
+    "ukphone": "kənˈdʒestʃən"
+  },
+  {
+    "name": "conqueror",
+    "trans": [
+      "征服者"
+    ],
+    "usphone": "ˈkɒŋkərə",
+    "ukphone": "ˈkɑːŋkərər"
+  },
+  {
+    "name": "conquest",
+    "trans": [
+      "征服"
+    ],
+    "usphone": "ˈkɒŋkwest",
+    "ukphone": "ˈkɑːŋkwest"
+  },
+  {
+    "name": "conversation",
+    "trans": [
+      "对话"
+    ],
+    "usphone": "ˌkɒnvəˈseɪʃn",
+    "ukphone": "ˌkɑːnvərˈseɪʃn"
+  },
+  {
+    "name": "conservation",
+    "trans": [
+      "保留，保护区"
+    ],
+    "usphone": "ˌkɒnsəˈveɪʃn",
+    "ukphone": "ˌkɑːnsərˈveɪʃn"
+  },
+  {
+    "name": "construction",
+    "trans": [
+      "建设"
+    ],
+    "usphone": "kənˈstrʌkʃn",
+    "ukphone": "kənˈstrʌkʃn"
+  },
+  {
+    "name": "consultant",
+    "trans": [
+      "咨询者，顾问"
+    ],
+    "usphone": "kənˈsʌltənt",
+    "ukphone": "kənˈsʌltənt"
+  },
+  {
+    "name": "consumption",
+    "trans": [
+      "消费"
+    ],
+    "usphone": "kənˈsʌmpʃn",
+    "ukphone": "kənˈsʌmpʃn"
+  },
+  {
+    "name": "contact",
+    "trans": [
+      "接触"
+    ],
+    "usphone": "ˈkɒntækt",
+    "ukphone": "ˈkɑːntækt"
+  },
+  {
+    "name": "container",
+    "trans": [
+      "容器"
+    ],
+    "usphone": "kənˈteɪnə",
+    "ukphone": "kənˈteɪnər"
+  },
+  {
+    "name": "contaminants",
+    "trans": [
+      "污染物"
+    ],
+    "usphone": "kən'tæmɪnənts",
+    "ukphone": "kən'tæmɪnənts"
+  },
+  {
+    "name": "contamination",
+    "trans": [
+      "污染（=pollution）"
+    ],
+    "usphone": "kənˌtæmɪˈneɪʃn",
+    "ukphone": "kənˌtæmɪˈneɪʃn"
+  },
+  {
+    "name": "content",
+    "trans": [
+      "内容"
+    ],
+    "usphone": "ˈkɒntent , kənˈtent",
+    "ukphone": "ˈkɑːntent , kənˈtent"
+  },
+  {
+    "name": "continent",
+    "trans": [
+      "洲"
+    ],
+    "usphone": "ˈkɒntɪnənt",
+    "ukphone": "ˈkɑːntɪnənt"
+  },
+  {
+    "name": "contract",
+    "trans": [
+      "合同"
+    ],
+    "usphone": "ˈkɒntrækt , kənˈtrækt",
+    "ukphone": "ˈkɑːntrækt , kənˈtrækt"
+  },
+  {
+    "name": "contracts",
+    "trans": [
+      "合同；契约"
+    ],
+    "usphone": "kənˈtrækts",
+    "ukphone": "kənˈtrækts"
+  },
+  {
+    "name": "controversy",
+    "trans": [
+      "争议"
+    ],
+    "usphone": "ˈkɑntrəvɝ​sɪ",
+    "ukphone": "'kɑːntrəvɜːrsi"
+  },
+  {
+    "name": "convenience",
+    "trans": [
+      "方便，便利"
+    ],
+    "usphone": "kənˈviːniəns",
+    "ukphone": "kənˈviːniəns"
+  },
+  {
+    "name": "cooperations",
+    "trans": [
+      "合作，协力"
+    ],
+    "usphone": "ˌkoʊˌɑp.əˈreɪ.ʃənz",
+    "ukphone": "ˌkəʊˌɒp.əˈreɪ.ʃənz"
+  },
+  {
+    "name": "cop",
+    "trans": [
+      "（男）警察"
+    ],
+    "usphone": "kɒp",
+    "ukphone": "kɑːp"
+  },
+  {
+    "name": "copy",
+    "trans": [
+      "复印"
+    ],
+    "usphone": "ˈkɒpi",
+    "ukphone": "ˈkɑːpi"
+  },
+  {
+    "name": "corporation",
+    "trans": [
+      "公司"
+    ],
+    "usphone": "ˌkɔːpəˈreɪʃn",
+    "ukphone": "ˌkɔːrpəˈreɪʃn"
+  },
+  {
+    "name": "corpse",
+    "trans": [
+      "尸体"
+    ],
+    "usphone": "kɔːps",
+    "ukphone": "kɔːrps"
+  },
+  {
+    "name": "correspondence",
+    "trans": [
+      "写信"
+    ],
+    "usphone": "ˌkɒrəˈspɒndəns",
+    "ukphone": "ˌkɔːrəˈspɑːndəns"
+  },
+  {
+    "name": "cost",
+    "trans": [
+      "成本，花费"
+    ],
+    "usphone": "kɒst",
+    "ukphone": "kɔːst"
+  },
+  {
+    "name": "costume",
+    "trans": [
+      "服装"
+    ],
+    "usphone": "ˈkɒstjuːm",
+    "ukphone": "ˈkɑːstuːm"
+  },
+  {
+    "name": "cot",
+    "trans": [
+      "轻便小床"
+    ],
+    "usphone": "kɒt",
+    "ukphone": "kɑːt"
+  },
+  {
+    "name": "cottage",
+    "trans": [
+      "农舍，小屋"
+    ],
+    "usphone": "ˈkɒtɪdʒ",
+    "ukphone": "ˈkɑːtɪdʒ"
+  },
+  {
+    "name": "cough",
+    "trans": [
+      "咳嗽"
+    ],
+    "usphone": "kɒf",
+    "ukphone": "kɔːf"
+  },
+  {
+    "name": "council",
+    "trans": [
+      "委员会"
+    ],
+    "usphone": "ˈkaʊnsl",
+    "ukphone": "ˈkaʊnsl"
+  },
+  {
+    "name": "country",
+    "trans": [
+      "国家，乡村"
+    ],
+    "usphone": "ˈkʌntri",
+    "ukphone": "ˈkʌntri"
+  },
+  {
+    "name": "course",
+    "trans": [
+      "课程"
+    ],
+    "usphone": "kɔːs",
+    "ukphone": "kɔːrs"
+  },
+  {
+    "name": "crack",
+    "trans": [
+      "裂缝"
+    ],
+    "usphone": "kræk",
+    "ukphone": "kræk"
+  },
+  {
+    "name": "craft",
+    "trans": [
+      "手艺"
+    ],
+    "usphone": "krɑːft",
+    "ukphone": "kræft"
+  },
+  {
+    "name": "cream",
+    "trans": [
+      "奶油，药膏"
+    ],
+    "usphone": "kriːm",
+    "ukphone": "kriːm"
+  },
+  {
+    "name": "credit",
+    "trans": [
+      "信用，信誉"
+    ],
+    "usphone": "ˈkredɪt",
+    "ukphone": "ˈkredɪt"
+  },
+  {
+    "name": "creek",
+    "trans": [
+      "小溪"
+    ],
+    "usphone": "kriːk",
+    "ukphone": "kriːk"
+  },
+  {
+    "name": "crime",
+    "trans": [
+      "犯罪"
+    ],
+    "usphone": "kraɪm",
+    "ukphone": "kraɪm"
+  },
+  {
+    "name": "crisis",
+    "trans": [
+      "危机"
+    ],
+    "usphone": "ˈkraɪsɪs",
+    "ukphone": "ˈkraɪsɪs"
+  },
+  {
+    "name": "crocodile",
+    "trans": [
+      "鳄鱼"
+    ],
+    "usphone": "'krɑkə'daɪl",
+    "ukphone": "'krɒkədaɪl"
+  },
+  {
+    "name": "crop",
+    "trans": [
+      "庄稼"
+    ],
+    "usphone": "krɒp",
+    "ukphone": "krɑːp"
+  },
+  {
+    "name": "cultivation",
+    "trans": [
+      "培育"
+    ],
+    "usphone": "ˌkʌltɪˈveɪʃn",
+    "ukphone": "ˌkʌltɪˈveɪʃn"
+  },
+  {
+    "name": "culture",
+    "trans": [
+      "文化"
+    ],
+    "usphone": "ˈkʌltʃə",
+    "ukphone": "ˈkʌltʃər"
+  },
+  {
+    "name": "cup",
+    "trans": [
+      "杯子"
+    ],
+    "usphone": "kʌp",
+    "ukphone": "kʌp"
+  },
+  {
+    "name": "cupboard",
+    "trans": [
+      "橱柜"
+    ],
+    "usphone": "ˈkʌbəd",
+    "ukphone": "ˈkʌbərd"
+  },
+  {
+    "name": "curtain",
+    "trans": [
+      "窗帘"
+    ],
+    "usphone": "ˈkɜːtn",
+    "ukphone": "ˈkɜːrtn"
+  },
+  {
+    "name": "customer",
+    "trans": [
+      "顾客"
+    ],
+    "usphone": "ˈkʌstəmə",
+    "ukphone": "ˈkʌstəmər"
+  },
+  {
+    "name": "cutlery",
+    "trans": [
+      "餐具"
+    ],
+    "usphone": "ˈkʌtləri",
+    "ukphone": "ˈkʌtləri"
+  },
+  {
+    "name": "cycle",
+    "trans": [
+      "循环；自行车"
+    ],
+    "usphone": "ˈsaɪkl",
+    "ukphone": "ˈsaɪkl"
+  },
+  {
+    "name": "cycling",
+    "trans": [
+      "骑自行车"
+    ],
+    "usphone": "ˈsaɪklɪŋ",
+    "ukphone": "ˈsaɪklɪŋ"
+  },
+  {
+    "name": "damage",
+    "trans": [
+      "毁坏"
+    ],
+    "usphone": "ˈdæmɪdʒ",
+    "ukphone": "ˈdæmɪdʒ"
+  },
+  {
+    "name": "danger",
+    "trans": [
+      "危险"
+    ],
+    "usphone": "ˈdeɪndʒə",
+    "ukphone": "ˈdeɪndʒər"
+  },
+  {
+    "name": "data",
+    "trans": [
+      "数据"
+    ],
+    "usphone": "ˈdeɪtə",
+    "ukphone": "ˈdeɪtə"
+  },
+  {
+    "name": "date",
+    "trans": [
+      "日期"
+    ],
+    "usphone": "deɪt",
+    "ukphone": "deɪt"
+  },
+  {
+    "name": "day",
+    "trans": [
+      "日"
+    ],
+    "usphone": "deɪ",
+    "ukphone": "deɪ"
+  },
+  {
+    "name": "deadline",
+    "trans": [
+      "截止期限"
+    ],
+    "usphone": "ˈdedlaɪn",
+    "ukphone": "ˈdedlaɪn"
+  },
+  {
+    "name": "debate",
+    "trans": [
+      "辩论"
+    ],
+    "usphone": "dɪˈbeɪt",
+    "ukphone": "dɪˈbeɪt"
+  }
+]
