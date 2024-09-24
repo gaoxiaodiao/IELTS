@@ -1,0 +1,6 @@
+
+# Ignore files in C3/1 and C3/2 with the pattern xxxx-yy-zz
+C3/?/2024-??-??
+
+# Ignore files in C3/1 and C3/2 with the pattern xxxx-yy-zz-2
+C3/?/2024-??-??-2
